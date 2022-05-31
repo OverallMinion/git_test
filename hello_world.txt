@@ -1,2 +1,3 @@
 "Hello world"
 I think this is only the second time that I've ever typed this phrase :-D
+Testing out the git commit command
